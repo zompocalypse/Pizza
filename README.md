@@ -4,8 +4,8 @@ Simple HTML/CSS web page demo
 
 ##About me
 
-+[github portfolio](https://github.com/zompocalypse)
-+[LinkedIn](https://www.linkedin.com/in/jason-stankevich-a798469a/)
+*[github portfolio](https://github.com/zompocalypse)
+*[LinkedIn](https://www.linkedin.com/in/jason-stankevich-a798469a/)
 
 ##Special Thanks
 
